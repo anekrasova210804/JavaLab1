@@ -4,5 +4,7 @@
 Иерархия:
 
                                                                      ForceUser
-                  JediBase                                                                                                  SithBase
-   JediInitiate   JediPadawan   JediKnight   JediMaster                                                         SithApprentice     SithMaster
+                      
+                      JediBase                                                                                                  SithBase
+      
+      JediInitiate   JediPadawan   JediKnight   JediMaster                                                         SithApprentice     SithMaster
